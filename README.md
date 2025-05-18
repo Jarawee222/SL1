@@ -1,8 +1,8 @@
 # FTIR Spectra Analysis and Denoising for Microplastics
 
 **Developed by:** Jarawee Saengkaewsuk  
-*Senior Project – Digital Engineering*  
-School of Information, Computer and Communication Technology, Faculty of Digital Engineering  
+*Senior Project*  
+Faculty of Digital Engineering
 Sirindhorn International Institute of Technology, Thammasat University
 
 ---
