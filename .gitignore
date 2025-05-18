@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.cpython-*
+
+# Virtual Environment
+venv/
+backend/venv/
+
+# Large data files
+*.npy
+*.npz
+*.dll
+*.pyd
+
+# IDE files
+.vscode/
+.idea/
