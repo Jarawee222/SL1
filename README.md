@@ -115,9 +115,14 @@ SL1/
 
 ## 📷 Screenshots
 
+To visually demonstrate the application's features and interface, add your screenshots to a folder named `screenshots` at the root of your project (alongside `backend`, `frontend`, and `README.md`). Then, insert the following markdown at `$SELECTION_PLACEHOLDER$`:
 
+```markdown
+![Home Page](screenshots/interface_screenshot.png)
+![Upload Page](screenshots/pdf_screenshot.png)
+```
 
----
+Make sure the `screenshots` folder and its images are committed to your repository so they display correctly on GitHub.
 
 ## 📊 Performance Metrics
 
